@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Orbitalworks</title>
+    <title>orbitalworks</title>
     <link>https://kennyg.github.io/index.xml</link>
-    <description>Recent content on Orbitalworks</description>
+    <description>Recent content on orbitalworks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="https://kennyg.github.io/index.xml" rel="self" type="application/rss+xml" />
